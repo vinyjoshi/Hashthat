@@ -1,0 +1,132 @@
+1620560797171	geckodriver	INFO	Listening on 127.0.0.1:39677
+1620560797177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehVT3FL"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620560798065	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620560800005	Marionette	INFO	Listening on port 46749
+1620560800101	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+1620561381743	geckodriver	INFO	Listening on 127.0.0.1:32923
+1620561381748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledajL0e"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561382665	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561384789	Marionette	INFO	Listening on port 35667
+1620561384878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561394061	Marionette	INFO	Stopped listening on port 35667
+1620561397060	Marionette	INFO	Stopped listening on port 46749
+1620561403608	geckodriver	INFO	Listening on 127.0.0.1:59363
+1620561403613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4K4YBU"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561404500	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561406248	Marionette	INFO	Listening on port 34259
+1620561406335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561406555	geckodriver	INFO	Listening on 127.0.0.1:55815
+1620561407574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLLGpYW"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561408265	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561410261	Marionette	INFO	Listening on port 43329
+1620561410316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561411848	Marionette	INFO	Stopped listening on port 43329
+1620561412714	Marionette	INFO	Stopped listening on port 34259
+1620561433576	geckodriver	INFO	Listening on 127.0.0.1:51597
+1620561433581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledcjMxV"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561434474	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561436305	Marionette	INFO	Listening on port 33275
+1620561436412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561436644	geckodriver	INFO	Listening on 127.0.0.1:39567
+1620561437670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4aNZRs"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561438380	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561440378	Marionette	INFO	Listening on port 34665
+1620561440503	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1620561444172	Marionette	INFO	Stopped listening on port 34665
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620561444608	Marionette	INFO	Stopped listening on port 33275
+1620561448487	geckodriver	INFO	Listening on 127.0.0.1:53605
+1620561448492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehDae0R"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561449371	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561451332	Marionette	INFO	Listening on port 37877
+1620561451417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561451679	Marionette	INFO	Stopped listening on port 37877
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620561452291	geckodriver	INFO	Listening on 127.0.0.1:57435
+1620561453308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSYdriK"
+[GFX1-]: More than 1 GPU detected via PCI, cannot deduce vendor
+[GFX1-]: PCI candidate 0x8086/0x1916
+[GFX1-]: PCI candidate 0x1002/0x6660
+1620561453960	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620561455734	Marionette	INFO	Listening on port 44913
+1620561455839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620561456103	Marionette	INFO	Stopped listening on port 44913
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
